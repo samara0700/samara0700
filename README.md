@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @samara0700
+- 📫 Email: overvaag.samara@gmail.com
+- 😄 Pronouns: she/her
