@@ -1,5 +1,5 @@
 - Hi, I’m @samara0700
 - Email: overvaag.samara@gmail.com
 - Pronouns: she/her
-- Interests: computational sciences, linear algebra, parallel programming
+- Interests: computational sciences, linear algebra, parallel programming, game dev
 - Experience with: C/C++, MATLAB, PETSc, Geant4, Linux OS
