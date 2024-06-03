@@ -2,4 +2,4 @@
 - Email: overvaag.samara@gmail.com
 - Pronouns: she/her
 - Interests: computational sciences, linear algebra, parallel programming
-- Experience with: C/C++, MATLAB, PETSc, Geant4
+- Experience with: C/C++, MATLAB, PETSc, Geant4, Linux OS
